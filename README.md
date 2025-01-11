@@ -42,10 +42,10 @@ Al cabo de un rato, después de probar e reinstalar componentes, la pantalla tá
 
 ### Manjaro Gnome
 La instalación con Manjaro GNOME fue también satisfactoria, y presentó una mejora notable respecto a KDE Plasma en varios aspectos:
-- Escala de pantalla: La escala se establece correctamente de forma automática, lo que mejora la experiencia visual sin necesidad de ajustes manuales.
-- Gestos táctiles: Los gestos de 2 y 3 dedos funcionan correctamente, mostrando que GNOME está mejor optimizado para paneles táctiles que KDE Plasma.
-- Teclado virtual: GNOME provee un teclado virtual integrado que resuelve el problema existente en KDE. Sin embargo, es importante mencionar que debe activarse manualmente desde las opciones de accesibilidad, y solo funciona en determinadas aplicaciones, por lo que la experiencia no es completamente óptima.
-- Cámara y HiPen H7: La cámara sigue sin funcionar, al igual que el lápiz HiPen H7, que continúa sin ser reconocido ni funcional.
+- **Escala de pantalla:** La escala se establece correctamente de forma automática, lo que mejora la experiencia visual sin necesidad de ajustes manuales.
+- **Gestos táctiles:** Los gestos de 2 y 3 dedos funcionan correctamente, mostrando que GNOME está mejor optimizado para paneles táctiles que KDE Plasma.
+- **Teclado virtual:** GNOME provee un teclado virtual integrado que resuelve el problema existente en KDE. Sin embargo, es importante mencionar que debe activarse manualmente desde las opciones de accesibilidad, y solo funciona en determinadas aplicaciones, por lo que la experiencia no es completamente óptima.
+- **Cámara y HiPen H7:** La cámara sigue sin funcionar, al igual que el lápiz HiPen H7, que continúa sin ser reconocido ni funcional.
 
 Al cabo de un rato, después de probar e reinstalar componentes, la pantalla táctil empieza a fallar, haciendo que la experiencia sea horrible.
 Dado que se repite
@@ -54,12 +54,12 @@ Dado que se repite
 
 La instalación con Ubuntu fue también satisfactoria, aunque presentó inicialmente un problema con la orientación de la pantalla, que no se ajusta de manera automática de forma eficiente. Este inconveniente se puede solucionar mediante las opciones de configuración del sistema.
 
-- Estabilidad: A diferencia de Manjaro, el sistema no presentó fallos durante los reinicios y se mantuvo muy estable.
+- **Estabilidad:** A diferencia de Manjaro, el sistema no presentó fallos durante los reinicios y se mantuvo muy estable.
 
-- Funcionalidad táctil: Al igual que en Manjaro GNOME, la experiencia general es satisfactoria y comparable, con una buena respuesta del panel táctil.
+- **Funcionalidad táctil:** Al igual que en Manjaro GNOME, la experiencia general es satisfactoria y comparable, con una buena respuesta del panel táctil.
 
-- HiPen H7: El lápiz HiPen H7 funciona correctamente, incluyendo los botones de función, lo que representa una gran mejora respecto a Manjaro.
+- **HiPen H7:** El lápiz HiPen H7 funciona correctamente, incluyendo los botones de función, lo que representa una gran mejora respecto a Manjaro.
 
-- Cámara: Las cámaras continúan sin funcionar, sin posibilidad de solución aparente.
+- **Cámara**: Las cámaras continúan sin funcionar, sin posibilidad de solución aparente.
 
 En general, Ubuntu ofrece una experiencia sólida y estable, siendo una de las mejores opciones probadas en esta tablet. A continuación, se detallan las soluciones aplicadas para los problemas de rotación de pantalla y el uso del teclado virtual.
