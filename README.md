@@ -49,3 +49,17 @@ La instalación con Manjaro GNOME fue también satisfactoria, y presentó una me
 
 Al cabo de un rato, después de probar e reinstalar componentes, la pantalla táctil empieza a fallar, haciendo que la experiencia sea horrible.
 Dado que se repite
+
+### Ubuntu 
+
+La instalación con Ubuntu fue también satisfactoria, aunque presentó inicialmente un problema con la orientación de la pantalla, que no se ajusta de manera automática de forma eficiente. Este inconveniente se puede solucionar mediante las opciones de configuración del sistema.
+
+- Estabilidad: A diferencia de Manjaro, el sistema no presentó fallos durante los reinicios y se mantuvo muy estable.
+
+- Funcionalidad táctil: Al igual que en Manjaro GNOME, la experiencia general es satisfactoria y comparable, con una buena respuesta del panel táctil.
+
+- HiPen H7: El lápiz HiPen H7 funciona correctamente, incluyendo los botones de función, lo que representa una gran mejora respecto a Manjaro.
+
+- Cámara: Las cámaras continúan sin funcionar, sin posibilidad de solución aparente.
+
+En general, Ubuntu ofrece una experiencia sólida y estable, siendo una de las mejores opciones probadas en esta tablet. A continuación, se detallan las soluciones aplicadas para los problemas de rotación de pantalla y el uso del teclado virtual.
